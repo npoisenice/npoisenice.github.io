@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://npoisenice.github.io/sitemap
+Sitemap: https://npoisenice.github.io/app/sitemap
+Sitemap: https://npoisenice.github.io/assets/sitemap
+Sitemap: https://npoisenice.github.io/css/sitemap
+Sitemap: https://npoisenice.github.io/includes/sitemap
+Sitemap: https://npoisenice.github.io/item/sitemap
+Sitemap: https://npoisenice.github.io/src/sitemap
